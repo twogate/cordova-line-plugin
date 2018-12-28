@@ -45,6 +45,7 @@
     <source-file src="src/ios/LineLogin.swift" />
 
     <framework src="src/ios/LineSDK.framework" custom="true" />
+    <framework src="src/ios/LineSDKObjC.framework" custom="true" />
     <framework src="Security.framework" />
     <framework src="CoreTelephony.framework" />
 
